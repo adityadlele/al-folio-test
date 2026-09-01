@@ -18,13 +18,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p style="font-size: 1.15rem; line-height: 1.7;">We are excited to uncover the science behind non-equilibrium processes using ML and multi-scale simulations for sustainable applications.</p>
+<p style="font-size: 1.15rem; line-height: 1.7;">We're a computational group that uses simulations to figure out how materials work — and how to make better ones. Most of what we do lives at the atomic scale, where quantum mechanics and molecular dynamics tell us what electrons and atoms are actually doing, and we lean on machine learning to make those atomistic simulations more accurate. More broadly, we're interested in connecting across scales to understand how atomic-level behavior shapes what materials do in the real world.</p>
 
 <div style="max-width: 55%; margin: 0 auto 1.5rem;">
 {% include figure.liquid loading="eager" path="assets/img/welcome.png" title="Multi-scale simulations, from quantum mechanics to CFD" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<p style="font-size: 1.15rem; line-height: 1.7;">Our group uses its expertise in multi-scale simulations (from atomistic to continuum), with a focus on the atomistic scale, to understand and model novel sustainable processes and materials.</p>
+<p style="font-size: 1.15rem; line-height: 1.7;">We like problems that are a bit messy: chemical reactions, systems far from equilibrium, things that evolve in time. That pulls us into a range of applications — heterogeneous and plasma catalysis, rapid joule-heated chemistry, plastic recycling, heat flow in imperfect crystals, and using data-driven models to hunt for better materials.</p>
 
 <p style="font-size: 1.15rem; line-height: 1.7;">We are not accepting new students at this time.</p>
 

@@ -6,8 +6,7 @@ title: Multi-scale Simulations Research Group # the website title (if blank, ful
 first_name: Aditya
 middle_name: Dilip
 last_name: Lele
-contact_note: >
-  We are not accepting new students at this time.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Multi-scale Simulations research group at Rowan University, using machine learning and
   multi-scale simulations to understand non-equilibrium processes for sustainable applications.
