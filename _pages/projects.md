@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: ["Material properties", "Non-equilibrium pyrolysis"]
+display_categories: ["Material properties", "Plastic recycling"]
 horizontal: false
 ---
 
