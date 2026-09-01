@@ -1,0 +1,13 @@
+/*******************************************************************************
+ * Site-local customizations, layered on top of al_folio_core's own partials.
+ ******************************************************************************/
+
+// Nav menu text: bump ~20% over the theme's ~1rem base
+.navbar-nav .nav-item .nav-link {
+  font-size: 1.2rem;
+}
+
+// Landing-page social icons (email / RSS / Scholar) were oversized at 4rem
+.social .contact-icons {
+  font-size: 2.2rem;
+}
