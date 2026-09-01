@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -17,8 +17,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-## Multi-scale Simulations Research Group
 
 <p style="font-size: 1.15rem; line-height: 1.7;">We are excited to uncover the science behind non-equilibrium processes using ML and multi-scale simulations for sustainable applications.</p>
 
