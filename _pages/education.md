@@ -10,7 +10,7 @@ nav_order: 6
 ## Resources
 
 - [Molecular Simulations course website](https://adityadlele.github.io/molsim/) — companion site for my molecular simulations course, with lecture notes, tutorials, and assignments.
-- CACHE-supported teaching modules — _(link and description needed — let me know and I'll add them)_
+- [CACHE-supported teaching modules](https://cacherowan.github.io/CACHE-Rowan/) — modules made to educate undergraduate students in courses related to sustainability. They teach students how to use molecular dynamics simulations to find chemical properties of novel chemicals, and how to use a machine learning artificial neural network algorithm to determine the impact of chemicals on both climate change and human health.
 
 ## Courses by semester
 
