@@ -8,7 +8,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -20,14 +20,14 @@ latest_posts:
 
 ## Multi-scale Simulations Research Group
 
-We are excited to uncover the science behind non-equilibrium processes using ML and multi-scale simulations for sustainable applications.
+<p style="font-size: 1.15rem; line-height: 1.7;">We are excited to uncover the science behind non-equilibrium processes using ML and multi-scale simulations for sustainable applications.</p>
 
+<div style="max-width: 55%; margin: 0 auto 1.5rem;">
 {% include figure.liquid loading="eager" path="assets/img/welcome.png" title="Multi-scale simulations, from quantum mechanics to CFD" class="img-fluid rounded z-depth-1" %}
+</div>
 
-Our group uses its expertise in multi-scale simulations (from atomistic to continuum), with a focus on the atomistic scale, to understand and model novel sustainable processes and materials.
+<p style="font-size: 1.15rem; line-height: 1.7;">Our group uses its expertise in multi-scale simulations (from atomistic to continuum), with a focus on the atomistic scale, to understand and model novel sustainable processes and materials.</p>
 
-{% include figure.liquid loading="eager" path="assets/img/research-overview.png" title="Research overview: sustainable chemistry and materials discovery" class="img-fluid rounded z-depth-1" %}
+<p style="font-size: 1.15rem; line-height: 1.7;">We are not accepting new students at this time.</p>
 
-If you are interested in joining our group, please contact Dr. Lele by email with your CV.
-
-[Meet the team →](/people/)
+<a href="{{ '/people/' | relative_url }}">Meet the team →</a>
