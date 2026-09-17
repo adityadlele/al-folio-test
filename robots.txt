@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://multiscalesim.github.io/al-folio/sitemap.xml
+Sitemap: https://multiscalesim.github.io/sitemap.xml
